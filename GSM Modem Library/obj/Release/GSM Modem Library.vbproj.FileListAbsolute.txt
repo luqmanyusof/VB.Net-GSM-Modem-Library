@@ -1,0 +1,8 @@
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\bin\Release\GSM Modem Library.dll
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\bin\Release\GSM Modem Library.pdb
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\bin\Release\GSM Modem Library.xml
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Release\GSM_Modem_Library.Resources.resources
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Release\GSM Modem Library.vbproj.GenerateResource.Cache
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Release\GSM Modem Library.dll
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Release\GSM Modem Library.xml
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Release\GSM Modem Library.pdb

@@ -1,0 +1,9 @@
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\bin\Debug\GSM Modem Library.dll
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\bin\Debug\GSM Modem Library.pdb
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\bin\Debug\GSM Modem Library.xml
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Debug\GSM Modem Library.vbprojResolveAssemblyReference.cache
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Debug\GSM_Modem_Library.Resources.resources
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Debug\GSM Modem Library.vbproj.GenerateResource.Cache
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Debug\GSM Modem Library.dll
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Debug\GSM Modem Library.xml
+c:\users\lh\documents\visual studio 2015\Projects\GSM Modem Library\GSM Modem Library\obj\Debug\GSM Modem Library.pdb
