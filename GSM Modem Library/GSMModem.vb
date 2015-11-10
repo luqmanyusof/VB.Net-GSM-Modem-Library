@@ -1,6 +1,7 @@
 ﻿Imports System.IO.Ports
 Enum responseKey
-    ping = 1
+    OK = 1
+    writeSMS = 2
 End Enum
 Public Class GSMModem
     Private theModem As New SerialPort
@@ -31,18 +32,19 @@ Public Class GSMModem
 
     Public Sub PingModem()
         giveResponse = True
-        responseType = responseKey.ping
+        responseType = responseKey.OK
         theModem.Write("AT")
         theModem.Write(vbCr)
     End Sub
 
     Private Sub ModemResponse()
         Dim rxData(theModem.BytesToRead) As Byte
+        ModemResponseData = ""
         theModem.Read(rxData, 0, theModem.BytesToRead)
         ModemResponseData = System.Text.ASCIIEncoding.ASCII.GetString(rxData)
         If giveResponse = True Then
             giveResponse = False
-            If responseType = "ping" Then
+            If responseType = responseKey.OK Then
                 MsgBox(ModemResponseData, "Response from modem")
             End If
         End If
